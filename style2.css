@@ -1,0 +1,53 @@
+body {
+    margin:0% 50vh;
+    background-color: antiquewhite;
+}
+
+.fg{
+    font-size: 18px;
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px;
+
+ 
+}
+.btn-back{
+    position: absolute;
+    /* transform: translate(-50%,-50%); */
+    left: 90%;
+    bottom: 20%;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10%;
+    background-color: white;
+    padding: 2px 2px;
+
+}
+.btn-back:hover{
+    color: red;
+}
+.img-i{
+    width: 100%;
+    height: 100%;
+}
+.img_div{
+    width: 50vw;
+    height: 50vh;
+    margin-bottom: 2vh;
+    
+    border-radius: 20px;
+    background-size: cover;
+    overflow: hidden;
+    align-items: center;
+    
+
+}
+.als {
+    position: relative;
+    text-align: center;
+    background-color: rgb(246, 197, 128);
+    color: black;
+    
+}
